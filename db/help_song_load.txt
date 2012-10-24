@@ -1,0 +1,149 @@
+            	 seg_pitch_avg[0] #84
+            	,seg_pitch_max[0] #85 
+            	,seg_pitch_min[0] #86
+            	,seg_pitch_stddev[0] #87
+            	,seg_pitch_count[0] #88
+            	,seg_pitch_sum[0] #89
+            	,seg_pitch_avg[1] #90
+            	,seg_pitch_max[1] #91
+            	,seg_pitch_min[1] #92
+            	,seg_pitch_stddev[1] #93
+            	,seg_pitch_count[1] #94
+            	,seg_pitch_sum[1] #95
+            	,seg_pitch_avg[2] #96
+            	,seg_pitch_max[2] #97
+            	,seg_pitch_min[2] #98 
+            	,seg_pitch_stddev[2]  #99
+            	,seg_pitch_count[2] #100
+            	,seg_pitch_sum[2] #101
+            	,seg_pitch_avg[3]  #102
+            	,seg_pitch_max[3], #103
+            	seg_pitch_min[3], #104
+            	seg_pitch_stddev[3]  #105
+            	,seg_pitch_count[3], #106
+            	seg_pitch_sum[3] #107
+            	,seg_pitch_avg[4], #108
+             	seg_pitch_max[4], #109
+            	seg_pitch_min[4] #110
+            	,seg_pitch_stddev[4] #111
+            	,seg_pitch_count[4], #112
+            	seg_pitch_sum[4] #113
+            	,seg_pitch_avg[5], #114
+            	seg_pitch_max[5], #115
+            	seg_pitch_min[5], #116
+            	seg_pitch_stddev[5], #117
+            	seg_pitch_count[5], #118
+            	seg_pitch_sum[5], #119
+            	seg_pitch_avg[6] #120
+            	seg_pitch_max[6], #121 
+            	seg_pitch_min[6], #122
+            	seg_pitch_stddev[6] #123
+            	,seg_pitch_count[6],  #124
+            	seg_pitch_sum[6]  #125
+            	,seg_pitch_avg[7] #126
+            	,seg_pitch_max[7] #127
+            	,seg_pitch_min[7], #128
+            	seg_pitch_stddev[7] #129
+            	,seg_pitch_count[7], #130
+            	seg_pitch_sum[7] #131
+            	,seg_pitch_avg[8] #132
+            	,seg_pitch_max[8] #133
+            	,seg_pitch_min[8]  #134
+            	,seg_pitch_stddev[8] #135
+            	,seg_pitch_count[8], #136
+            	seg_pitch_sum[8], #137
+            	seg_pitch_avg[9] #138
+            	,seg_pitch_max[9] #139
+            	,seg_pitch_min[9] #140
+            	,seg_pitch_stddev[9] #141
+            	,seg_pitch_count[9], #142
+            	seg_pitch_sum[9], #143
+            	seg_pitch_avg[10], #144
+            	seg_pitch_max[10]  #145
+            	,seg_pitch_min[10] #146
+            	,seg_pitch_stddev[10] #147
+            	,seg_pitch_count[10] #148
+            	,seg_pitch_sum[10] #149
+            	,seg_pitch_avg[11], #150
+            	seg_pitch_max[11] #151
+            	,seg_pitch_min[11], #152
+				seg_pitch_stddev[11] #153
+				,seg_pitch_count[11]  #154
+				,seg_pitch_sum[11], #155
+				seg_start_avg #156
+				,seg_start_max, #157
+				seg_start_min, #158
+				seg_start_stddev,  #159
+				seg_start_count, #160
+				seg_start_sum, #161
+				seg_timbre_avg[0],#162
+				seg_timbre_max[0],#163
+				seg_timbre_min[0], #164
+				seg_timbre_stddev[0] #165
+				,seg_timbre_count[0], #166
+				seg_timbre_sum[0] #167
+				,seg_timbre_avg[1]
+				,seg_timbre_max[1],
+				seg_timbre_min[1]
+				,seg_timbre_stddev[1]
+				,seg_timbre_count[1],
+				seg_timbre_sum[1],
+				seg_timbre_avg[2],
+				seg_timbre_max[2],
+				seg_timbre_min[2]
+				seg_timbre_stddev[2],
+				seg_timbre_count[2],
+				seg_timbre_sum[2],
+				seg_timbre_avg[3],
+				seg_timbre_max[3],
+				seg_timbre_min[3],
+				seg_timbre_stddev[3],
+				seg_timbre_count[3],
+				seg_timbre_sum[3]
+				,seg_timbre_avg[4],
+				seg_timbre_max[4],
+				seg_timbre_min[4],
+				seg_timbre_stddev[4]
+				,seg_timbre_count[4],
+				seg_timbre_sum[4],
+				seg_timbre_avg[5],
+				seg_timbre_max[5],
+				seg_timbre_min[5],
+				seg_timbre_stddev[5],
+				seg_timbre_count[5],
+				seg_timbre_sum[5]
+				,seg_timbre_avg[6]
+				,seg_timbre_max[6]
+				seg_timbre_min[6],
+				seg_timbre_stddev[6]
+				,seg_timbre_count[6],
+				seg_timbre_sum[6]
+				,seg_timbre_avg[7]
+				,seg_timbre_max[7],
+				seg_timbre_min[7],
+				seg_timbre_stddev[7]
+				,seg_timbre_count[7],
+				seg_timbre_sum[7],
+				seg_timbre_avg[8],
+				seg_timbre_max[8],
+				seg_timbre_min[8],
+				seg_timbre_stddev[8]
+				,seg_timbre_count[8],
+				seg_timbre_sum[8],
+				seg_timbre_avg[9],
+				seg_timbre_max[9],
+				seg_timbre_min[9],
+				seg_timbre_stddev[9],
+				seg_timbre_count[9],
+				seg_timbre_sum[9],
+				seg_timbre_avg[10]
+				,seg_timbre_max[10]
+				,seg_timbre_min[10],
+				seg_timbre_stddev[10],
+				seg_timbre_count[10],
+				seg_timbre_sum[10],
+				seg_timbre_avg[11]
+				,seg_timbre_max[11],
+				seg_timbre_min[11],
+				seg_timbre_stddev[11]
+				,seg_timbre_count[11]

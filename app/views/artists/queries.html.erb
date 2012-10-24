@@ -1,0 +1,21 @@
+<h1>some queries </h1>
+
+<table>
+  <tr>
+    <th>enter a term to get a list of the best match artist for this term</th>
+    <div class="field">
+    <%= f.label :term %><br />
+    <%= f.text_field :term %>
+  </div>
+  </tr>
+
+<% @term.each do |t| %>
+  <tr>
+    <td><%= t %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+
